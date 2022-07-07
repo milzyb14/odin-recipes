@@ -1,0 +1,20 @@
+a {
+    color: orange;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+.title{
+    color: green;
+}
+.ingredients{
+    color: blue;
+    font-weight: bold;
+    text-decoration: underline;
+}
+.recipe{
+    color: brown;
+}
+.steps{
+    color: purple;
+    font-weight: bold;
+}
